@@ -1,0 +1,410 @@
+.boot{
+    background-color: black;
+    
+}
+.about{
+    background-color:black;
+    background-image: url('https://res.cloudinary.com/highereducation/images/f_auto,q_auto/v1662131572/ComputerScience.org/programmer-coding-on-laptop_858160b59/programmer-coding-on-laptop_858160b59.jpg?_i=AA');
+}
+.eye{
+    height: 100px;
+    width: 100px;
+}
+.logo{
+    text-align: center;
+}
+.sign:hover{
+    color: rgb(150, 129, 9);
+    transform: translateZ(5px);
+    
+}
+.inno{
+   color:rgb(252,70,132);
+}
+.hack{
+    color: rgb(70,252,250);
+}
+ .nav{
+    position: fixed;
+    /* top: 0; */
+} 
+
+.navbar-brand{
+    font-family: 'Anek Latin', sans-serif;
+}
+.navbar-nav{
+    font-family: 'Anek Latin', sans-serif;
+}
+.sign{
+    height: 50px;
+    width: 150px;
+    padding: auto;
+   border: 2px solid  #ae5eff;  
+   color:white;
+   box-shadow:3px 3px 0px #ae5eff ;
+   
+}
+
+
+.navbar-toggler{
+    box-shadow:3px 3px 0px #ae5eff ;
+}
+.navbar-brand:hover{
+    color:rgb(252,70,227)!important;
+}
+.nav-link:hover{
+    color: #ffdd65 !important;
+}
+
+.start{
+    height: 50px;
+    width: 150px;
+    padding: auto;
+   border: 2px solid  #ae5eff;  
+   color:white;
+   box-shadow:3px 3px 0px #ae5eff ;
+}
+.start:hover{
+color: #ffdd65 !important;
+ transform: translate(5px,12px);
+}
+.sign:hover{
+color: #ffdd65 !important;
+}
+.para{
+    color:  #ffdd65 !important;
+}
+.full-stack{
+    color: white;
+}
+
+.learn{
+   
+    box-shadow:3px 3px 30px rgb(252,70,227);
+  border: 2px solid yellow;
+  background-size: cover;
+  border-radius: 4.17em;
+  padding: 5px;
+  
+ 
+}
+.image{
+    
+    border-radius: 4.17em;
+    
+}
+.gobta{
+    background-image: url('https://miro.medium.com/v2/resize:fit:1400/1*5QXN6HKEepJ6LujsMQJUkQ.jpeg');
+    background-position: center;
+    
+    
+}
+
+.downsy{
+   
+   padding:20px 24px;
+   border: 2px solid  #ae5eff;  
+   color:white;
+   box-shadow:4px 4px 0px #ae5eff;
+   border-radius:15px;
+   font: 1.5em sans-serif;
+   text-decoration: none;
+
+}
+/* .encrypted{
+    z-index: 10;
+    animation: a 3s  ;
+    position: relative;
+}
+@keyframes a {
+    from{
+        position: relative;
+        left:0;
+    }
+    to{
+        position: relative;
+        left: 150px;
+    } 
+    
+}*/
+/* @media only screen and (max-width: 667px) and (min-width: 375px) {
+.en{
+       position: fixed;
+   }
+} */
+  
+
+.encrypted{
+   box-shadow:3px 3px 30px rgb(252,70,227);
+  border: 2px solid yellow;
+  background-size: cover;
+  border-radius: 4.17em;
+  padding: 5px; 
+ 
+}
+/* .dev{
+     animation: b 3s  ;
+}
+@keyframes b {
+    from{
+        position: relative;
+        right: 0;
+    }
+    to{
+        position: relative;
+        right: 150px;
+    }
+    
+}
+.dev1{
+    animation: d 3s;
+}
+@keyframes d {
+  from{
+        position: relative;
+        left:0;
+    }
+    to{
+        position: relative;
+        left: 150px;
+    }
+}
+.avanse{
+    z-index: 10;
+    animation: c 3s;
+    position: relative; 
+}
+@keyframes c {
+  from{
+        position: relative;
+        right:0;
+    }
+    to{
+        position: relative;
+        right: 150px;
+    }
+       
+} */
+.downsy:hover{
+    transform:translateZ(5px)  ;
+    color: darkgoldenrod;
+     
+}
+
+
+/* .developer{
+    
+    background-image:url('https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/268524439/original/9be26bc1faa99398dc21ce58cc4214c2b8b3e618/debug-and-solve-the-programming-and-web-development-related-problems.jpg') ;
+      background-size: cover;
+} */
+.gobta{
+    border-radius: 4.17em;
+    
+}
+.deve{
+    /* position: relative; */
+    letter-spacing: 7px;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: letter 4s steps(44) 3s infinite normal both,
+    blink  500ms infinite ;
+}
+
+
+@keyframes letter {
+    from{
+        width:0px;
+    }
+    to{
+        width: 500px;
+    }
+}
+@keyframes blink {
+    from{
+        border-right-color: black;
+    }
+    to{
+        border-right-color:transparent ;
+    }
+}
+
+.sh{
+    
+   padding:20px 20px;
+   
+   border: 2px solid  #ae5eff;  
+   color:whitesmoke;
+   box-shadow:4px 4px 0px #ae5eff;
+   border-radius:15px;
+   font: 1.5em sans-serif;
+   text-decoration: none;
+}
+.sh:hover{
+    transform: translateZ(5px);
+    color: crimson;
+}
+.search{
+    padding-bottom: 200px;
+}
+
+.ourcurri{
+   background-image: url('https://res.cloudinary.com/highereducation/images/f_auto,q_auto/v1662131572/ComputerScience.org/programmer-coding-on-laptop_858160b59/programmer-coding-on-laptop_858160b59.jpg?_i=AA');
+ 
+ border-radius: 4.17em;
+  background-size: cover;
+
+ 
+}
+
+.dev{
+    border: 2px solid #232323;
+    background-color: #232323;
+    border-radius: 4.17em;
+    height:650px;
+    width:850px;
+    text-align: end;
+}
+.dev1{
+    border: 2px solid #232323;
+    background-color:#232323;
+    border-radius: 4.17em;
+    height:700px;
+    width:850px;
+    text-align: end;
+    
+   
+}
+
+.ul{
+  list-style:none ; 
+ text-align: center;
+ 
+}
+
+.avanse{
+     box-shadow:3px 3px 30px rgb(252,70,227);
+  border: 2px solid yellow;
+  background-size: cover;
+  border-radius: 4.17em;
+  padding: 5px; 
+  margin-top: 50px;
+  top: 120px;
+}
+.stati{
+    list-style:none ; 
+ text-align: center;
+ 
+}
+.back-end{
+     border: 2px solid #232323;
+    background-color: #232323;
+    border-radius: 4.17em;
+    height:750px;
+    width:850px;
+    text-align: end;
+}
+.front-end{
+     border: 2px solid #232323;
+    background-color: #232323;
+    border-radius: 4.17em;
+    height:850px;
+    width:850px;
+    text-align: end;
+}
+.mach1{
+    text-align: justify;
+}
+.mach{
+ box-shadow:3px 3px 30px rgb(252,70,227);
+  border: 2px solid yellow;
+  background-size: cover;
+  border-radius: 4.17em;
+  padding: 5px;
+  position: relative; 
+  z-index: 10;   
+}
+.machine{
+      border: 2px solid #232323;
+    background-color: #232323;
+    border-radius: 4.17em;
+    height:800px;
+    width:850px;
+    text-align: end;
+}
+.mango{
+      border: 2px solid #232323;
+    background-color: #232323;
+    border-radius: 4.17em;
+    height:940px;
+    width:850px;
+    text-align: end;
+}
+.career{
+    border: 2px solid #232323;
+    height: 850px;
+    width: 650px;
+    background-color: #232323;
+    border-radius: 4.17em;
+}
+.caree{
+   box-shadow:3px 3px 30px rgb(252,70,227); 
+    border: 2px solid yellow;
+    border-radius: 4.17em;
+}
+
+.card{ 
+    background-color: #232323; color: #ffdd65;
+    font-size:16px;
+}
+
+ .card1{
+   border: 2px solid #ae5eff;
+   width: 50px;
+   height: 50px;
+   
+} 
+.ic{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.content{
+    border: thin solid #232323;
+    
+           
+    
+    background-color: rgb(101,161,255);;
+   
+}
+.group{
+    border: 2px solid #232323;
+    height: 850px;
+    width: 850px;
+    background-color: #232323;
+    border-radius: 4.17em;
+}
+.accordion{
+
+    border: thin solid #232323;
+    background-color: #232323;
+    
+}
+
+.star{ 
+  color: #ffdd65; 
+}
+.thank{
+    background: radial-gradient(circle at 100% 100%, #ffffff 0, #ffffff 3px, transparent 3px) 0% 0%/8px 8px no-repeat,
+            radial-gradient(circle at 0 100%, #ffffff 0, #ffffff 3px, transparent 3px) 100% 0%/8px 8px no-repeat,
+            radial-gradient(circle at 100% 0, #ffffff 0, #ffffff 3px, transparent 3px) 0% 100%/8px 8px no-repeat,
+            radial-gradient(circle at 0 0, #ffffff 0, #ffffff 3px, transparent 3px) 100% 100%/8px 8px no-repeat,
+            linear-gradient(#ffffff, #ffffff) 50% 50%/calc(100% - 10px) calc(100% - 16px) no-repeat,
+            linear-gradient(#ffffff, #ffffff) 50% 50%/calc(100% - 16px) calc(100% - 10px) no-repeat,
+            radial-gradient(at 100% 100%, #f48200 0%, transparent 70%),
+            radial-gradient(at 100% 0%, #7e00ff 0%, rgba(0,0,0,0) 70%),
+            radial-gradient(at 0% 0%, #ec00ff 0%, rgba(0,0,0,0) 70%),
+            #ff0000;
+box-sizing: border-box;
+
+   
+}
+ 
